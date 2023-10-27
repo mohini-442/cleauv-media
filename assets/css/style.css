@@ -276,7 +276,21 @@
 .pl-25 {
     padding-left: 25px;
 }
-
+.blue-ellipse-2{
+    position: absolute;
+    top: 2%;
+    left: 0;
+}
+.round-scribble{
+    position: absolute;
+    top: 5%;
+    right: 21%;
+}
+.green-mode{
+    position: absolute;
+    bottom: -4%;
+    right: 0;
+}
 .slider-btn {
     display: inline-flex;
     padding: 16px 30px;
@@ -511,14 +525,14 @@
 
 .Isolation_Mode {
     position: absolute;
-    top: -6%;
+    top: 0%;
     left: 0%;
 }
 
 .blob-5 {
     position: absolute;
     bottom: 0%;
-    right: -10%;
+    right: 0%;
 }
 
 .scribble-final-version {
@@ -631,6 +645,11 @@
 
 .max-w-839 {
     max-width: 839px;
+}
+.timer-image{
+    position: absolute;
+    bottom: 47%;
+    right: 7%;
 }
 
 /*----------- footer ------------*/
