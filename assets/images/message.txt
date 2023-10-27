@@ -1,0 +1,102 @@
+    <div class="accordion accordion-flush" id="accordionFlushExample">
+                    <div class="accordion-item border-radius">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed toggle example" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                aria-controls="flush-collapseOne">
+                                Q1. What does “unlimited requests” mean?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseOne" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body example">At Cleauv Media Inc, we pride ourselves on our holistic
+                                approach to creative services and marketing. We offer a
+                                comprehensive suite of services, including web build, branding, content creation, paid
+                                advertising, and business
+                                automation. Our team of experts combines creativity with strategic thinking to deliver
+                                tailored solutions that drive
+                                results for our clients.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed toggle example" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false"
+                                aria-controls="flush-collapseTwo">
+                                Q2. What makes your creative studio/marketing agency unique?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body example">At Cleauv Media Inc, we pride ourselves on our holistic
+                                approach to creative services and marketing. We offer a
+                                comprehensive suite of services, including web build, branding, content creation, paid
+                                advertising, and business
+                                automation. Our team of experts combines creativity with strategic thinking to deliver
+                                tailored solutions that drive
+                                results for our clients.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed toggle example" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
+                                aria-controls="flush-collapseThree">
+                                Q3. Can you handle projects of different sizes?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseThree" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body example">At Cleauv Media Inc, we pride ourselves on our holistic
+                                approach to creative services and marketing. We offer a
+                                comprehensive suite of services, including web build, branding, content creation, paid
+                                advertising, and business
+                                automation. Our team of experts combines creativity with strategic thinking to deliver
+                                tailored solutions that drive
+                                results for our clients.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed toggle example" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                aria-controls="flush-collapseFour">
+                                Q4. How do you ensure the quality of your work?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseFour" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body example">At Cleauv Media Inc, we pride ourselves on our holistic
+                                approach to creative services and marketing. We offer a
+                                comprehensive suite of services, including web build, branding, content creation, paid
+                                advertising, and business
+                                automation. Our team of experts combines creativity with strategic thinking to deliver
+                                tailored solutions that drive
+                                results for our clients.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed toggle example" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false"
+                                aria-controls="flush-collapseThree">
+                                Q5. How do I get started with your services?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseFive" class="accordion-collapse collapse"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body example">At Cleauv Media Inc, we pride ourselves on our holistic
+                                approach to creative services and marketing. We offer a
+                                comprehensive suite of services, including web build, branding, content creation, paid
+                                advertising, and business
+                                automation. Our team of experts combines creativity with strategic thinking to deliver
+                                tailored solutions that drive
+                                results for our clients.
+                            </div>
+                        </div>
+                    </div>
+                </div>
