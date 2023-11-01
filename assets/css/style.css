@@ -781,8 +781,8 @@
         position: fixed;
         top: 0;
         right: -100%;
-        width: 60%;
-        min-height: 60vh;
+        width: 100%;
+        min-height: 80vh;
         background-color: var(--color-grey);
         transition: 300ms linear;
         flex-direction: column;
@@ -981,7 +981,7 @@
     }
 
     .ellipse-width {
-        width: 25%;
+        width: 13%;
     }
 
     .ellipse-width-2 {
