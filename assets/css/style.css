@@ -732,7 +732,21 @@
 }
 
 /* preloader */
-.duration-300 {
+@keyframes swing {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.duration_300 {
     transition: 300ms linear;
 }
 
@@ -740,14 +754,12 @@
     pointer-events: none;
 }
 
-.z_4 {
+.animation {
+    animation: swing 2s linear infinite;
+}
+.z_4{
     z-index: 4;
 }
-
-.animation {
-    animation: swing 2s linear infinite !important;
-}
-
 /* back-to-top */
 .back-to-top-button {
     width: 70px;
